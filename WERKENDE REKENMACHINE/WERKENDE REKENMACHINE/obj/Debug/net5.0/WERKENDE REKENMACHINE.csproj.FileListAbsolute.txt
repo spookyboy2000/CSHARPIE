@@ -1,0 +1,16 @@
+C:\Users\Nick van Luyk\source\repos\WERKENDE REKENMACHINE\WERKENDE REKENMACHINE\bin\Debug\net5.0\WERKENDE REKENMACHINE.exe
+C:\Users\Nick van Luyk\source\repos\WERKENDE REKENMACHINE\WERKENDE REKENMACHINE\bin\Debug\net5.0\WERKENDE REKENMACHINE.deps.json
+C:\Users\Nick van Luyk\source\repos\WERKENDE REKENMACHINE\WERKENDE REKENMACHINE\bin\Debug\net5.0\WERKENDE REKENMACHINE.runtimeconfig.json
+C:\Users\Nick van Luyk\source\repos\WERKENDE REKENMACHINE\WERKENDE REKENMACHINE\bin\Debug\net5.0\WERKENDE REKENMACHINE.runtimeconfig.dev.json
+C:\Users\Nick van Luyk\source\repos\WERKENDE REKENMACHINE\WERKENDE REKENMACHINE\bin\Debug\net5.0\WERKENDE REKENMACHINE.dll
+C:\Users\Nick van Luyk\source\repos\WERKENDE REKENMACHINE\WERKENDE REKENMACHINE\bin\Debug\net5.0\WERKENDE REKENMACHINE.pdb
+C:\Users\Nick van Luyk\source\repos\WERKENDE REKENMACHINE\WERKENDE REKENMACHINE\obj\Debug\net5.0\WERKENDE REKENMACHINE.csproj.AssemblyReference.cache
+C:\Users\Nick van Luyk\source\repos\WERKENDE REKENMACHINE\WERKENDE REKENMACHINE\obj\Debug\net5.0\WERKENDE REKENMACHINE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick van Luyk\source\repos\WERKENDE REKENMACHINE\WERKENDE REKENMACHINE\obj\Debug\net5.0\WERKENDE REKENMACHINE.AssemblyInfoInputs.cache
+C:\Users\Nick van Luyk\source\repos\WERKENDE REKENMACHINE\WERKENDE REKENMACHINE\obj\Debug\net5.0\WERKENDE REKENMACHINE.AssemblyInfo.cs
+C:\Users\Nick van Luyk\source\repos\WERKENDE REKENMACHINE\WERKENDE REKENMACHINE\obj\Debug\net5.0\WERKENDE REKENMACHINE.csproj.CoreCompileInputs.cache
+C:\Users\Nick van Luyk\source\repos\WERKENDE REKENMACHINE\WERKENDE REKENMACHINE\obj\Debug\net5.0\WERKENDE REKENMACHINE.dll
+C:\Users\Nick van Luyk\source\repos\WERKENDE REKENMACHINE\WERKENDE REKENMACHINE\obj\Debug\net5.0\refint\WERKENDE REKENMACHINE.dll
+C:\Users\Nick van Luyk\source\repos\WERKENDE REKENMACHINE\WERKENDE REKENMACHINE\obj\Debug\net5.0\WERKENDE REKENMACHINE.pdb
+C:\Users\Nick van Luyk\source\repos\WERKENDE REKENMACHINE\WERKENDE REKENMACHINE\obj\Debug\net5.0\WERKENDE REKENMACHINE.genruntimeconfig.cache
+C:\Users\Nick van Luyk\source\repos\WERKENDE REKENMACHINE\WERKENDE REKENMACHINE\obj\Debug\net5.0\ref\WERKENDE REKENMACHINE.dll
